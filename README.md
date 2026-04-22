@@ -9,7 +9,7 @@ This is a clean starter project for your PC that gives you:
 - a **Gradio UI**
 - **step-by-step setup instructions**
 
-It is designed for a machine like yours with **8 GB VRAM + 16 GB RAM**.
+It is designed for a machine with **8 GB VRAM + 16 GB RAM**.
 
 ## Best default model for your setup
 
