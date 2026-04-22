@@ -1,17 +1,8 @@
 # Local Ollama Agent Starter
 
-This is a clean starter project for your PC that gives you:
-
-- a **local Ollama model**
-- a **Python agent**
-- **tools**
-- **memory**
-- a **Gradio UI**
-- **step-by-step setup instructions**
-
 It is designed for a machine with **8 GB VRAM + 16 GB RAM**.
 
-## Best default model for your setup
+## Best default model 
 
 Start with:
 
@@ -197,36 +188,7 @@ If you enable code execution:
 
 - `Run Python code that prints the numbers 1 to 5`
 
----
 
-## How to upgrade this starter
-
-Good next upgrades:
-
-1. add a real web search tool
-2. add RAG over your documents
-3. add model switching in the UI
-4. add task planning + sub-agents
-5. add streaming responses
-6. add evals so you can compare prompts and tools
-7. add a proper tool permission layer
-
----
-
-## Recommended next version for you
-
-Once this starter works, the next strong upgrade for your PC is:
-
-- keep **Ollama**
-- keep **Qwen2.5-Coder 7B**
-- add **LangGraph**
-- add **RAG** over your own docs
-- add a better browser/search tool
-- add a task queue for bigger jobs
-
-That gives you something much closer to a real coding/research agent.
-
----
 
 ## Troubleshooting
 
